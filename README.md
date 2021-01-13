@@ -4,5 +4,7 @@ Hey, I'm Ryan Murphy. I teach math and computer science in New Orleans. I've bee
 
 I'm excited about learning more about data science to be able to analyze all the data created on the internet.
 
+Course Github: https://github.com/TTSMarissa/DataScienceLectureNotes.git
+
 Listen to this: https://www.superdatascience.com/podcast/becoming-good-enough-jumpstarting-your-data-science-career
 Read this: https://www.innoarchitech.com/blog/what-is-data-science-does-data-scientist-do
